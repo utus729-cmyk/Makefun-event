@@ -1,4 +1,7 @@
-# The World in One Day — 19 November 2026
+[![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+![rank](https://make.fun/badge/news-image-20261119/utus729-cmyk/Makefun-event/rank.svg)
+![reward](https://make.fun/badge/news-image-20261119/utus729-cmyk/Makefun-event/reward.svg)
+[Bounty: Sum up 19 November's world news in one image](https://make.fun/bounty/news-image-20261119)# The World in One Day — 19 November 2026
 
 A program that draws a one-image summary of the world news of
 **Thursday, November 19, 2026** as a newspaper front page.
